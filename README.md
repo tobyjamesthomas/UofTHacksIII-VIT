@@ -1,4 +1,4 @@
-# UofTHacksIII-VIT
+# UofTHacksIII-VIT (3rd Place)
 
 VIT was conceptualized and created by Paul Mullins, with the help of Toby Thomas and Lisa Guo.
 
